@@ -36,13 +36,3 @@ mainAPI.py -i {uid} KObject delete text/xml
 *   To create a new empty K-Object :
 
 mainAPI.py KObject create text/xml
-
-*An example of the direct use of the objects is found in example.py*
-
-*   Upload a media file
-
-*   Request a transcript
-
-*   Check progress of transcription repeatedly (might take very long and is not necessarily recommended)
-
-*   Save transcript (can also be done separately using the Transcript object)
