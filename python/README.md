@@ -37,7 +37,7 @@ mainAPI.py -i {uid} KObject delete text/xml
 
 mainAPI.py KObject create text/xml
 
-*An example of the direct use of the objects is found in example.py*
+*An example of the direct use of the classes is found in example.py*
 
 *   Upload a media file
 
